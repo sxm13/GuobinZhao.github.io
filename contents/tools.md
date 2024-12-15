@@ -59,7 +59,7 @@
     *   [tobacco](https://github.com/tobacco-mofs/tobacco_3.0)                
     *   [pyCOFbulider](https://github.com/lipelopesoliveira/pyCOFBuilder)          
     *   [MOFexplorer](http://mausdin.github.io/MOFsite/mofPage.html)                         
-    *   [PROMAKE](https://github.com/Sangwon91/PORMAKE)
+    *   [PORMAKE](https://github.com/Sangwon91/PORMAKE)
     *   [pyCOSMOS: Compartmentalization](https://github.com/shivamrkparashar/pyCOSMOS)   
 
 *   Nanoporous Materials and Adsorption Database             
