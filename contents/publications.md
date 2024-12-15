@@ -1,6 +1,15 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Construction of Chimeric Metal-Organic Frameworks with Symmetry-Mismatched Building Blocks. <strong>Chemistry of Materials</strong>. [[Paper]](https://doi.org/10.1021/acs.chemmater.3c00694)
+- <strong>G. Zhao<strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (2024). CoRE MOF DB: a curated experimental metal-organic framework database with machine-learned properties for integrated material-process screening. <strong>ChemRxiv.</strong> [[Paper]](https://doi.org/10.26434/chemrxiv-2024-nvmnr)
+
+- Y Chen, <strong>G. Zhao<strong>, S. Yoon, P. Habibi, C. S. Hong, S. Li, O. A. Moultos, P. Dey, T. J. H. Vlugt and Y. G. Chung* (2024). Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models. <strong>ACS Applied Materials & Interfaces.</strong> [[Paper]](https://doi.org/10.1021/acsami.4c11953)
+
+- <strong>G. Zhao</strong> and Y. G. Chung* (2024). PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks. <strong>Journal of Chemical Theory and Computation.</strong> [[Paper]](https://doi.org/10.1021/acs.jctc.4c00434)
+
+- <strong>G. Zhao</strong>, H. Kim, C. Yang and Y. G. Chung* (2024). Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases. <strong>The Journal of Physical Chemistry A.</strong> [[Paper]](https://doi.org/10.1021/acs.jpca.3c07339)
+
+- <strong>G. Zhao</strong>, Y. Chen and Y. G. Chung* (2023). High-Throughput, Multiscale Computational Screening of Metal-Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters. <strong>Industrial & Engineering Chemistry Research.</strong> [[Paper]](https://doi.org/10.1021/acs.iecr.3c02211)
+
+- S. Han, S. Lee, D. Kim, J. Seong, A. Sharma, J. Lim, S. Jeong, <strong>G. Zhao</strong>, Y. Chen, S. B. Baek, Y. G. Chung* and M. S. Lah* (2023). Construction of Chimeric Metal-Organic Frameworks with Symmetry-Mismatched Building Blocks. <strong>Chemistry of Materials</strong>. [[Paper]](https://doi.org/10.1021/acs.chemmater.3c00694)
 
 - X. Zhang, Q.-R. Zheng*, <strong>G. Zhao</strong> and W. Zhang (2021). Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs. <strong>Cryogenics</strong>. [[Paper]](https://doi.org/10.1016/j.cryogenics.2020.103121)
 
