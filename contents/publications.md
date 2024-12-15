@@ -13,7 +13,7 @@
 
 - X. Zhang, Q. Zheng*, <strong style="color: purple;">G. Zhao</strong> and W. Zhang (2021). Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs. <strong>Cryogenics</strong>. [[Paper]](https://doi.org/10.1016/j.cryogenics.2020.103121)
 
-- <<strong style="color: purple;">G. Zhao</strong> (2020). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Theses Full-text Database</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
+- <strong style="color: purple;">G. Zhao</strong> (2020). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Theses Full-text Database</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
 
 - <strong style="color: purple;">G. Zhao</strong>, Q. Zheng*, X. Zhang and W. Zhang (2020). Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon. <strong>Chinese Journal of Chemical Engineering</strong>. [[Paper]](https://doi.org/10.1016/j.cjche.2020.04.021)
 
