@@ -173,6 +173,18 @@
         </div>
     </footer>
 
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch("contents/tools.md")
+                .then(response => response.text())
+                .then(markdown => {
+                    const htmlContent = marked.parse(markdown);
+                    document.getElementById("tools-md").innerHTML = htmlContent;
+                })
+                .catch(error => console.error("Error loading tools.md:", error));
+        });
+    </script>
+    
 </body>
 
 </html>
