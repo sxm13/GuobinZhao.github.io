@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/sxm13-github-blue?logo=github)](https://github.com/sxm13)
 [![Twitter](https://img.shields.io/badge/Twitter-@Guobin_Zhao-blue?logo=twitter)](https://twitter.com/Guobin_Zhao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guobin--zhao--427818256-blue?logo=linkedin)](https://www.linkedin.com/in/guobin-zhao-427818256)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--2345--6789-a6ce39?logo=orcid)](https://orcid.org/0000-0002-7728-4211)
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0002-7728-4211-a6ce39?logo=orcid)](https://orcid.org/0000-0002-7728-4211)
 
 
 He is currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
