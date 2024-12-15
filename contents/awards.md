@@ -1,13 +1,12 @@
-- National Scholarship of Graduate Student, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- 우수 포스터 of KIChE (한국화학공학회) and KSIEC (한국공업화학회), 2023.
 
-- First-prize Scholarship of CUMT, 2023.
+- Scholarship of ZJOU, JMU and PNU, 2018-2022
 
-- Freshman Scholarship of CUMT, 2022.
+- Outstanding Professional Master's Degree Thesis in Fujian Province, 2020.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Excellent Master's Thesis of Jimei University, 2020
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Outstanding Master's Degree Graduates, 2020.
 
-- First-prize Scholarship of CUMT, 2019.
+- Excellent Undergraduate Thesis, 2018.
