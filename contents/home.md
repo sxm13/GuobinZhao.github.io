@@ -1,16 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Github](https://img.shields.io/badge/sxm13-github-blue?logo=github)](https://github.com/sxm13)
+[![Twitter](https://img.shields.io/badge/Twitter-@Guobin_Zhao-blue?logo=twitter)](https://twitter.com/Guobin_Zhao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-guobin-zhao-427818256-blue?logo=linkedin)](https://www.linkedin.com/in/guobin-zhao-427818256)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He is currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
 
 #### Email
-sli[at]cumt.edu.cn
+sxmzhaogb[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD., Chemical Engineering, Pusan National University, 2020—2025 (expected).\
+M.S., Naval Architecture and Ocean Engineering, Jimei University, 2018—2020.\
+B.S., Marine Engineering (Onshore), Zhejiang Ocaean University, 2014—2018.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Molecular Simulation, AI4Science, Multi-scale Screening, Big Data, Experiment.
 
