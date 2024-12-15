@@ -44,5 +44,38 @@
 *   DFT Tools
     *   [XPS](https://galore.readthedocs.io/en/latest/readme.html#documentation)                 
     *   [Raman](https://github.com/raman-sc/VASP)                               
-    *   [VASPsol](https://github.com/henniggroup/VASPsol)                        
+    *   [VASPsol](https://github.com/henniggroup/VASPsol)             
 
+*   Cute Icons
+    *   [markdown emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
+    *   [Animated Icons](https://www.flaticon.com/animated-icons)                                  
+    *   [Ion figs](https://thenounproject.com/)                 
+
+*   Convert
+    *   [Unit Convert](https://www.colby.edu/chemistry/PChem/Hartree.html)                       
+    *   [Structure Format Convert](https://www.cheminfo.org/Chemistry/Cheminformatics/FormatConverter/index.html)        
+
+*   Build Tools
+    *   [tobacco](https://github.com/tobacco-mofs/tobacco_3.0)                
+    *   [pyCOFbulider](https://github.com/lipelopesoliveira/pyCOFBuilder)          
+    *   [MOFexplorer](http://mausdin.github.io/MOFsite/mofPage.html)                         
+    *   [PROMAKE](https://github.com/Sangwon91/PORMAKE)
+    *   [pyCOSMOS: Compartmentalization](https://github.com/shivamrkparashar/pyCOSMOS)   
+
+*   Nanoporous Materials and Adsorption Database             
+    *   [QMOF](https://github.com/arosen93/QMOF)                   
+    *   [CSD MOF Set](https://www.ccdc.cam.ac.uk/support-and-resources/downloads/)                                        
+    *   [ARC-MOF](https://zenodo.org/records/13891643)                                        
+    *   [CURATED COF](https://github.com/danieleongari/CURATED-COFs)                 
+    *   [CoRE COF](https://github.com/core-cof/CoRE-COF-Database)       
+    *   [IZA database](https://www.iza-structure.org/databases/)          
+    *   [NIST Adsorption Data](https://adsorption.nist.gov/index.php#home)    
+    *   [HyMarc Adsorption Data](https://datahub.hymarc.org/dataset)                                                
+    *   [Acentric_Factors](https://www.kaylaiacovino.com/Petrology_Tools/Critical_Constants_and_Acentric_Factors.htm)                    
+
+*   API
+    *   [Springer, Xml](https://dev.springernature.com/)
+    *   [Wiley, PDF](https://onlinelibrary.wiley.com/library-info/resources/text-and-datamining)
+    *   [Elsevier, Xml](https://dev.elsevier.com/)
+    *   [RSC, Html](https://developer.rsc.org/create-an-api-key)
+    *   [ACS, Xml](https://www.acs.org/events/all-events/rapid-delivery-of-api-enables-accelerated-ind-application-challenges-and-solutions.html)     
