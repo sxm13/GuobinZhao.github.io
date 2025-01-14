@@ -5,7 +5,7 @@
 
 - <strong style="color: purple;">G. Zhao</strong> and Y. G. Chung* (2024). PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks. <strong>Journal of Chemical Theory and Computation.</strong> [[Paper]](https://doi.org/10.1021/acs.jctc.4c00434)
 
-- Chung, Young Chul, Yang, Chang Won and <strong style="color: purple;">G. Zhao</strong> (2024). Global Warming Potential(GWP) Prediction Apparatus based on Computational Chemistry and Machine Learning. <strong>Application number: 10-2023-0061292.</strong> [[Patent]](http://eng.kipris.or.kr/enghome/main.jsp)
+- Chung, Young Chul, Yang, Chang Won and <strong style="color: purple;">G. Zhao</strong> (2024). Global Warming Potential(GWP) Prediction Apparatus based on Computational Chemistry and Machine Learning. <strong>Application Number: 10-2023-0061292.</strong> [[Patent]](http://eng.kipris.or.kr/enghome/main.jsp)
   
 - <strong style="color: purple;">G. Zhao</strong>, H. Kim, C. Yang and Y. G. Chung* (2024). Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases. <strong>The Journal of Physical Chemistry A.</strong> [[Paper]](https://doi.org/10.1021/acs.jpca.3c07339)
 
