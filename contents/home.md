@@ -13,8 +13,8 @@ sxmzhaogb[at]gmail.com
 #### Education
 PhD., Chemical Engineering, Pusan National University, 2020—2025 (expected).\
 M.S., Naval Architecture and Ocean Engineering, Jimei University, 2018—2020.\
-B.S., Marine Engineering (Onshore), Zhejiang Ocaean University, 2014—2018.
+B.S., Marine Engineering (Onshore), Zhejiang Ocean University, 2014—2018.
 
 #### Research Interests (Skills)
-Molecular Simulation (GCMC, MD, DFT), AI4Science (pytorch, scikit-learn, transformers, streamlit), Multi-scale Screening (High throughput screening, process simulation), Big Data (text mining), Experiment (Synthesize, Pretreatment, Micromeritics ASAP/3Flex/AccuPyc).
+Molecular Simulation (GCMC, MD, DFT), AI4Science (LLM, pytorch, scikit-learn, transformers, streamlit), Multi-scale Screening (High throughput screening, process simulation), Big Data (text mining), Experiment (Synthesize, Pretreatment, Micromeritics ASAP/3Flex/AccuPyc).
 
