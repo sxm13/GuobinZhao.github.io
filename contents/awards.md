@@ -1,5 +1,5 @@
 
-- 우수 포스터 of KIChE (한국화학공학회) and KSIEC (한국공업화학회), 2020-2025.
+- Excellent Poster Award: KSIC—Busan (2024), KIChE—Busan (2024), KIChE—Busan (2023), KSIC—Busan (2023), KSIC—Busan (2021)
 
 - Scholarship of ZJOU, JMU and PNU, 2018-2022
 
