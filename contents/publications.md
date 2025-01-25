@@ -21,5 +21,5 @@
 
 - X. Zhang, Q.-R. Zheng*, W.-D. Zhang and <strong style="color: purple;">G.-B Zhao</strong> (2020). Study of adsorption of ship's bilge oily water on expanded graphite/activated carbon composite adsorbents. <strong>Ship Science and Technology</strong>. [[Paper]](https://doi.org/10.3404/j.issn.1672-7649.2020.06.021)
 
-- <strong style="color: purple;">G.-B Zhao</strong>, Q.-R. Zheng*, W.-D. Zhang and X. Zhang (2019). Adsorption equilibrium and charge/discharge characteristics of methane on MIL-101. <strong>/Journal of Fuel Chemistry and Technology</strong>. [[Paper]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85077798637&partnerID=MN8TOARS)
+- <strong style="color: purple;">G.-B Zhao</strong>, Q.-R. Zheng*, W.-D. Zhang and X. Zhang (2019). Adsorption equilibrium and charge/discharge characteristics of methane on MIL-101. <strong>Journal of Fuel Chemistry and Technology</strong>. [[Paper]](http://www.scopus.com/inward/record.url?eid=2-s2.0-85077798637&partnerID=MN8TOARS)
 
