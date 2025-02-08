@@ -1,6 +1,6 @@
 G. Zhao's Development Portfolio
 
-- 👷 On going [Web Application (alpha version)](http://www.coremof.org/) & [pypi](https://pypi.org/project/CoRE-MOF/): **Automated updating/exploration/pre-screening** of database, structure **visualization/processing**, and a user-friendly **API** interface.
+- 👷 On going [Web Application (alpha version)](http://www.coremof.org:8888) & [pypi](https://pypi.org/project/CoREMOF-tools/): **Automated updating/exploration/pre-screening** of database, structure **visualization/processing**, and a user-friendly **API** interface.
   -  Paper Robot
   -  Text Mining
   -  APP & pip Development                                          
