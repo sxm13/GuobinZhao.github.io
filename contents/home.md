@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guobin--zhao--427818256-blue?logo=linkedin)](https://www.linkedin.com/in/guobin-zhao-427818256)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7728--4211-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7728-4211)
                 
-He is currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
+I am currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
 
 #### Email
 sxmzhaogb[at]gmail.com
