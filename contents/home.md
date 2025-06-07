@@ -12,9 +12,9 @@ I am currently pursuing a Doctor's Degree in Chemical Engineering, at School of 
 sxmzhaogb[at]gmail.com
 
 #### Education
-PhD., Chemical Engineering, Pusan National University, 2020—2025 (expected).\
-M.S., Naval Architecture and Ocean Engineering, Jimei University, 2018—2020.\
-B.S., Marine Engineering (Onshore), Zhejiang Ocean University, 2014—2018.
+PhD., Chemical Engineering, Pusan National University, 2020.09—2025.08\
+M.S., Naval Architecture and Ocean Engineering, Jimei University, 2018.09—2020.08.\
+B.S., Marine Engineering (Onshore), Zhejiang Ocean University, 2014.09—2018.08.
 
 #### Research Interests (Skills)
 Molecular Simulation (GCMC, MD, DFT), AI4Science (LLM, pytorch, scikit-learn, transformers, streamlit), Multi-scale Screening (High throughput screening, process simulation), Big Data (text mining), Experiment (Synthesize, Pretreatment, Micromeritics ASAP/3Flex/AccuPyc).
