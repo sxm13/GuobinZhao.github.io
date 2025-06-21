@@ -1,5 +1,9 @@
 G. Zhao's Development Portfolio
-
+                                                        
+- MOFClassifier (**Not Computation-Ready classification** for MOFs by positive-unlabeled CGCNN models):
+  -  [Github Repo](https://github.com/mtap-research/MOFClassifier)                                                  
+  -  [pypi - MOFClassifier](https://pypi.org/project/MOFClassifier/)
+                                                                                                      
 - CoRE MOF Database (**Co**mputation-**R**eady, **E**xperimental (CoRE) Metal-Organic Framework Database):
   -  [Web Server](https://mof-db.pusan.ac.kr/)
   -  [pypi - CoREMOF-tools](https://pypi.org/project/CoREMOF-tools/)
