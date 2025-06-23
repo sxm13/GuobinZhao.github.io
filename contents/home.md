@@ -15,7 +15,7 @@ sxmzhaogb@gmail.com
 
 #### Education
 PhD., Chemical Engineering, Pusan National University, Korea, 2020.09—2025.08                             
-M.S., Naval Architecture and Ocean Engineering, Jimei University, China, 2018.09—2020.08.                               
+M.E., Naval Architecture and Ocean Engineering, Jimei University, China, 2018.09—2020.08.                               
 B.E., Marine Engineering (Onshore), Zhejiang Ocean University, China, 2014.09—2018.08.                             
 
 #### Research Interests (Skills)
