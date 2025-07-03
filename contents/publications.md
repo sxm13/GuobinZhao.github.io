@@ -1,3 +1,6 @@
+- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.
+
+
 - <strong style="color: purple;">G. Zhao</strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (<strong style="color: green;">2025</strong>). CoRE MOF 2025 v2.0: Expanded Open-Access Structures and Sensitivity Analysis of Machine Learning Models. <strong>in preparation.</strong>
 
 
@@ -23,7 +26,7 @@
 
 - X. Zhang, Q. Zheng*, <strong style="color: purple;">G. Zhao</strong> and W. Zhang (<strong style="color: yellow;">2021</strong>). Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs. <strong>Cryogenics</strong>. [[Paper]](https://doi.org/10.1016/j.cryogenics.2020.103121)
 
-- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: pink;">2020</strong>). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Theses Full-text Database</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
+- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: pink;">2020</strong>). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Dissertation Full-text Database</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
 
 - <strong style="color: purple;">G. Zhao</strong>, Q. Zheng*, X. Zhang and W. Zhang (<strong style="color: pink;">2020</strong>). Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon. <strong>Chinese Journal of Chemical Engineering</strong>. [[Paper]](https://doi.org/10.1016/j.cjche.2020.04.021)
 
