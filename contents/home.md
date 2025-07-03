@@ -11,12 +11,16 @@
 I am currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
 
 #### Email
-sxmzhaogb@gmail.com
+sxmzhaogb@gmail.com    
+
+#### Experimence
+**Postdoctoral Associate**, Pusan National University, Korea, 2025.09-2025.12          
+**Teaching Assistant**, Pusan National University, Korea, 2022-2025                 
 
 #### Education
-PhD., Chemical Engineering, Pusan National University, Korea, 2020.09—2025.08                             
-M.E., Naval Architecture and Ocean Engineering, Jimei University, China, 2018.09—2020.08.                               
-B.E., Marine Engineering (Onshore), Zhejiang Ocean University, China, 2014.09—2018.08.                             
+**PhD.**, Chemical Engineering, Pusan National University, Korea, 2020.09—2025.08                             
+**M.E.**, Naval Architecture and Ocean Engineering, Jimei University, China, 2018.09—2020.08.                               
+**B.E.**, Marine Engineering (Onshore), Zhejiang Ocean University, China, 2014.09—2018.08.                             
 
 #### Research Interests (Skills)
 - Molecular Simulation (GCMC, MD, DFT)
