@@ -1,3 +1,6 @@
+- <strong style="color: purple;">G. Zhao</strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (<strong style="color: green;">2025</strong>). CoRE MOF 2025 v2.0: Expanded Open-Access Structures and Sensitivity Analysis of Machine Learning Models. <strong>in prepartion.</strong>
+
+
 - <strong style="color: purple;">G. Zhao</strong>, P. Zhao and Y. Chung* (<strong style="color: green;">2025</strong>). MOFClassifier: A Machine Learning Approach for Validating Computation-Ready Metal-Organic Frameworks. <strong>arXiv.</strong> [[Paper]](https://doi.org/10.48550/arXiv.2506.14845)
                                                                  
 - <strong style="color: purple;">G. Zhao</strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (<strong style="color: green;">2025</strong>). CoRE MOF DB: a curated experimental metal-organic framework database with machine-learned properties for integrated material-process screening. <strong>Matter.</strong> [[Paper]](https://doi.org/10.1016/j.matt.2025.102140)
