@@ -1,13 +1,12 @@
 - <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.
 
+- Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Submitted. </strong> [[Paper]]()
+
+- S. Yoon, J. Jung, <strong style="color: purple;">G. Zhao</strong>, Y. Lee, K. B. Lee and Y. Chung* (<strong style="color: green;">2025</strong>). Techno-Economic Analysis of Cu(I)-Loaded Porous Carbons for Co Separation Using Pressure/Vacuum Swing Adsorption Process. <strong>Separation and Purification Technology. </strong> [[Paper]](https://doi.org/10.1016/j.seppur.2025.134786)
 
 - <strong style="color: purple;">G. Zhao</strong>, P. Zhao and Y. Chung* (<strong style="color: green;">2025</strong>). MOFClassifier: A Machine Learning Approach for Validating Computation-Ready Metal-Organic Frameworks. <strong>Journal of the American Chemical Society.</strong> [[Paper]](https://doi.org/10.1021/jacs.5c10126)
                                                                  
 - <strong style="color: purple;">G. Zhao</strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (<strong style="color: green;">2025</strong>). CoRE MOF DB: a curated experimental metal-organic framework database with machine-learned properties for integrated material-process screening. <strong>Matter.</strong> [[Paper]](https://doi.org/10.1016/j.matt.2025.102140)
-
-
-- S. Yoon, J. Jung, <strong style="color: purple;">G. Zhao</strong>, Y. Lee, K. B. Lee and Y. Chung* (<strong style="color: green;">2025</strong>). Techno-Economic Analysis of Cu(I)-Loaded Porous Carbons for Co Separation Using Pressure/Vacuum Swing Adsorption Process. <strong>Separation and Purification Technology. accepted. </strong> [[Paper]](http://dx.doi.org/10.2139/ssrn.5277179)
-
 
 - Y Chen, <strong style="color: purple;">G. Zhao</strong>, S. Yoon, P. Habibi, C. S. Hong, S. Li, O. A. Moultos, P. Dey, T. J. H. Vlugt and Y. G. Chung* (<strong style="color: red;">2024</strong>). Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models. <strong>ACS Applied Materials & Interfaces.</strong> [[Paper]](https://doi.org/10.1021/acsami.4c11953)
 
