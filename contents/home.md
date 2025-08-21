@@ -9,7 +9,7 @@
 [![PyPI Badge](https://img.shields.io/badge/PyPI-Guobin%20Zhao-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/q342247760/)
 [![Zenodo Badge](https://img.shields.io/badge/Zenodo-Guobin%20Zhao-FF6600?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ZHAO%2C%20GUOBIN%22&l=list&p=1&s=10&sort=bestmatch)                            
                                                
-I am currently pursuing a Doctor's Degree in Chemical Engineering, at School of Chemical Engineering, Pusan National University, Korea (South).
+I remain deeply committed to scientific research and actively seek collaborations with researchers in related fields. My overarching goal is to develop accessible models, software, and methodologies—integrated tools that streamline the work of computational chemists worldwide.
 
 #### Email
 sxmzhaogb@gmail.com    
