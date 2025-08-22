@@ -15,7 +15,7 @@ I remain deeply committed to scientific research and actively seek collaboration
 sxmzhaogb@gmail.com    
 
 #### Experimence
-**Postdoctoral Associate**, Pusan National University, Korea, 2025.09-2025.12          
+**Postdoctoral Associate**, Pusan National University, Korea, 2025.09-now
 **Teaching Assistant**, Pusan National University, Korea, 2022-2025                 
 
 #### Education
