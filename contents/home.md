@@ -15,7 +15,7 @@ I remain deeply committed to scientific research and actively seek collaboration
 sxmzhaogb@gmail.com    
 
 #### Experimence
-**Postdoctoral Associate**, Natioanl University of Sinapore, Sinapore, 2025.12-    
+**Postdoctoral Associate**, National University of Sinapore, Sinapore, 2025.12-    
 **Postdoctoral Associate**, Pusan National University, Korea, 2025.09-2025.11                                                                  
 **Teaching Assistant**, Pusan National University, Korea, 2022-2025                 
 
