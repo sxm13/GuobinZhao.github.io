@@ -1,6 +1,6 @@
-- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.
-
 - Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Submitted. </strong> [[Paper]]()
+
+- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.[[Thesis]](https://dcollection.pusan.ac.kr/srch/srchDetail/000000169044)
 
 - S. Yoon, J. Jung, <strong style="color: purple;">G. Zhao</strong>, Y. Lee, K. B. Lee and Y. Chung* (<strong style="color: green;">2025</strong>). Techno-Economic Analysis of Cu(I)-Loaded Porous Carbons for Co Separation Using Pressure/Vacuum Swing Adsorption Process. <strong>Separation and Purification Technology. </strong> [[Paper]](https://doi.org/10.1016/j.seppur.2025.134786)
 
@@ -22,7 +22,7 @@
 
 - X. Zhang, Q. Zheng*, <strong style="color: purple;">G. Zhao</strong> and W. Zhang (<strong style="color: yellow;">2021</strong>). Adsorption equilibrium and charge/discharge characteristics of hydrogen on MOFs. <strong>Cryogenics</strong>. [[Paper]](https://doi.org/10.1016/j.cryogenics.2020.103121)
 
-- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: pink;">2020</strong>). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Dissertation Full-text Database</strong>. [[Paper]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
+- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: pink;">2020</strong>). Study on Adsorption Storage of Methane on Typical MOFs. <strong>Chinese Master's Dissertation Full-text Database</strong>. [[Thesis]](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202002&filename=1020961336.nh&uniplatform=OVERSEA&v=vqWERP8d4d0tdmNgXgoea9wc8pdDCihQ941MND2nVh-YMMnGeV1faDCxwuynoug0)
 
 - <strong style="color: purple;">G. Zhao</strong>, Q. Zheng*, X. Zhang and W. Zhang (<strong style="color: pink;">2020</strong>). Adsorption equilibrium and the effect of honeycomb heat exchanging device on charge/discharge characteristic of methane on MIL-101(Cr) and activated carbon. <strong>Chinese Journal of Chemical Engineering</strong>. [[Paper]](https://doi.org/10.1016/j.cjche.2020.04.021)
 
