@@ -1,4 +1,4 @@
-- Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Accepted. </strong> [[Paper]]()
+- Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Accepted. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
 
 - <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.[[Thesis]](https://dcollection.pusan.ac.kr/srch/srchDetail/000000169044)
 
