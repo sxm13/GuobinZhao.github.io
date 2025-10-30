@@ -1,4 +1,4 @@
-G. Zhao's Development Portfolio
+[Development Portfolio](https://resume.github.io/?sxm13)
                                                         
 - MOFClassifier (**Not Computation-Ready classification** for MOFs by positive-unlabeled CGCNN models):
   -  [Github Repo](https://github.com/mtap-research/MOFClassifier)                                                  
