@@ -1,6 +1,6 @@
 - Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Langmuir. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
 
-- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>PhD's Dissertation</strong>.[[Thesis]](https://dcollection.pusan.ac.kr/srch/srchDetail/000000169044)
+- <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>Digital Collection</strong>.[[Thesis]](https://dcollection.pusan.ac.kr/srch/srchDetail/000000169044)
 
 - S. Yoon, J. Jung, <strong style="color: purple;">G. Zhao</strong>, Y. Lee, K. B. Lee and Y. Chung* (<strong style="color: green;">2025</strong>). Techno-Economic Analysis of Cu(I)-Loaded Porous Carbons for Co Separation Using Pressure/Vacuum Swing Adsorption Process. <strong>Separation and Purification Technology. </strong> [[Paper]](https://doi.org/10.1016/j.seppur.2025.134786)
 
