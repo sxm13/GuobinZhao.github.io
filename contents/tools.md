@@ -7,6 +7,7 @@
 - CoRE MOF Database (**Co**mputation-**R**eady, **E**xperimental (CoRE) Metal-Organic Framework Database):
   -  [Web Server](https://mof-db.pusan.ac.kr/)
   -  [pypi - CoREMOF-tools](https://pypi.org/project/CoREMOF-tools/)
+  -  [Zenodo for CoRE MOF 2025 SI Database](https://zenodo.org/records/15621349)
   -  [Zenodo for CoRE MOF 2019 Database v2](https://zenodo.org/records/14184621)
   -  [Zenodo for CoRE MOF 2024 SI Database](https://zenodo.org/record/14510695)
   -  [CSD Website for CoRE MOF 2024 CSD Database](https://www.ccdc.cam.ac.uk/support-and-resources/downloads/)
