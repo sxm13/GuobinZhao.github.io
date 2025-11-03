@@ -21,7 +21,7 @@
 - (8) <strong style="color: purple;">G. Zhao</strong>, H. Kim, C. Yang and Y. G. Chung* (<strong style="color: red;">2024</strong>). Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases. <strong>The Journal of Physical Chemistry A.</strong> [[Paper]](https://doi.org/10.1021/acs.jpca.3c07339)
 
 - (7) <strong style="color: purple;">G. Zhao</strong>, Y. Chen and Y. G. Chung* (<strong style="color: blue;">2023</strong>). High-Throughput, Multiscale Computational Screening of Metal-Organic Frameworks for Xe/Kr Separation with Machine-Learned Parameters. <strong>Industrial & Engineering Chemistry Research.</strong> [[Paper]](https://doi.org/10.1021/acs.iecr.3c02211)                                                                 
-📢Published as part of the Industrial & Engineering Chemistry Research virtual special issue “2023 Class of Influential Researchers”                         
+📢Published as part of the Industrial & Engineering Chemistry Research virtual special issue [“2023 Class of Influential Researchers”](https://pubs.acs.org/doi/10.1021/acs.iecr.3c03921)                             
 
 - (6) S. Han, S. Lee, D. Kim, J. Seong, A. Sharma, J. Lim, S. Jeong, <strong style="color: purple;">G. Zhao</strong> Y. Chen, S. B. Baek, Y. G. Chung* and M. S. Lah* (<strong style="color: blue;">2023</strong>). Construction of Chimeric Metal-Organic Frameworks with Symmetry-Mismatched Building Blocks. <strong>Chemistry of Materials</strong>. [[Paper]](https://doi.org/10.1021/acs.chemmater.3c00694)
 
