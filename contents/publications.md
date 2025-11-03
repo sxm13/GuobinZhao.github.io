@@ -8,7 +8,8 @@
 📢[News in School of Chemical Engineering at Pusan National University](https://chemeng.pusan.ac.kr/chemeng/71271/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2hlbWVuZyUyRjE3ODI0JTJGMTc0MDY0MCUyRmFydGNsVmlldy5kbyUzRg%3D%3D)                                             
                                                                  
 - (12) <strong style="color: purple;">G. Zhao</strong>, L. Brabson, S. Chheda, J. Huang, H. Kim, K. Liu, K. Mochida, T. Pham, P. Prerna, G. Terrones. S. Yoon, L. Zoubritzky, F. X. Coudert, M. Haranczyk, H. Kulik, M. Moosavi, D. Sholl, I. Siepmann, R. Snurr and Y. Chung* (<strong style="color: green;">2025</strong>). CoRE MOF DB: a curated experimental metal-organic framework database with machine-learned properties for integrated material-process screening. <strong>Matter.</strong> [[Paper]](https://doi.org/10.1016/j.matt.2025.102140)                        
-📢[News in Pusan National University Research](https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN270&mode=view&board_seq=1503624)          
+📢[News in Pusan National University Research](https://www.pusan.ac.kr/kor/CMS/Board/Board.do?mCode=MN270&mode=view&board_seq=1503624)                    
+📢[News in School of Chemical Engineering at Pusan National University](https://chemeng.pusan.ac.kr/chemeng/71271/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY2hlbWVuZyUyRjE3ODI0JTJGMTczMjQzOSUyRmFydGNsVmlldy5kbyUzRg%3D%3D)                                    
 
 - (11) Y Chen, <strong style="color: purple;">G. Zhao</strong>, S. Yoon, P. Habibi, C. S. Hong, S. Li, O. A. Moultos, P. Dey, T. J. H. Vlugt and Y. G. Chung* (<strong style="color: red;">2024</strong>). Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models. <strong>ACS Applied Materials & Interfaces.</strong> [[Paper]](https://doi.org/10.1021/acsami.4c11953)
 
