@@ -17,7 +17,7 @@
 📢Recognized and prominently discussed in the JCTC editorial ['Machine Learning and Statistical Mechanics: Shared Synergies for Next Generation of Chemical Theory and Computation'](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00650), highlighting the significance of my work in advancing the integration of machine learning and statistical mechanics.                                                                                          
 📢Cover                                         
 
-- (9) Chung, Young Chul, Yang, Chang Won and <strong style="color: purple;">G. Zhao</strong> (<strong style="color: red;">2024</strong>). Global Warming Potential(GWP) Prediction Apparatus based on Computational Chemistry and Machine Learning. <strong>Application Number: 10-2023-0061292.</strong> [[Patent]](http://eng.kipris.or.kr/enghome/main.jsp)
+- (9) Chung, Young Chul, Yang, Chang Won and <strong style="color: purple;">Zhao, Guobin</strong> (<strong style="color: red;">2024</strong>). Global Warming Potential(GWP) Prediction Apparatus based on Computational Chemistry and Machine Learning. <strong>Application Number: 10-2023-0061292.</strong> [[Patent]](http://eng.kipris.or.kr/enghome/main.jsp)
   
 - (8) <strong style="color: purple;">G. Zhao</strong>, H. Kim, C. Yang and Y. G. Chung* (<strong style="color: red;">2024</strong>). Leveraging Machine Learning To Predict the Atmospheric Lifetime and the Global Warming Potential of SF6 Replacement Gases. <strong>The Journal of Physical Chemistry A.</strong> [[Paper]](https://doi.org/10.1021/acs.jpca.3c07339)
 
