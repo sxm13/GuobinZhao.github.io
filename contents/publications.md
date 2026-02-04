@@ -1,3 +1,5 @@
+- (17) J. Guo, X. Xu*, L. E*, <strong style="color: purple;">G. Zhao*</strong> and Y. Li* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Langmuir. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
+                                                         
 - (16) Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Langmuir. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
 
 - (15) <strong style="color: purple;">G. Zhao</strong> (<strong style="color: green;">2025</strong>). Accelerating Nanoporous Materials Discovery for Adsorptive Separations: from Database to Machine Learning Models. <strong>Digital Collection</strong>.[[Thesis]](https://dcollection.pusan.ac.kr/srch/srchDetail/000000169044)
