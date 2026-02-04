@@ -1,4 +1,4 @@
-- (17) J. Guo, X. Xu*, L. E*, <strong style="color: purple;">G. Zhao*</strong> and Y. Li* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Langmuir. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
+- (17) J. Guo, X. Xu*, L. E*, <strong style="color: purple;">G. Zhao*</strong> and Y. Li* (<strong style="color: gold;">2026</strong>). Beyond Disappearance: Heterojunction AOPs and the Hidden Carbon Fate in Water Systems. <strong> ACS ES&T Water. </strong> [[Paper]](https://doi.org/10.1021/acsestwater.5c01460)                        
                                                          
 - (16) Y. Chen, <strong style="color: purple;">G. Zhao</strong>, L. C. Lin and Y. Chung* (<strong style="color: green;">2025</strong>). A Master Isotherm Model Approach to Quantify Defects in UiO-66 from Nitrogen Adsorption Isotherms. <strong> Langmuir. </strong> [[Paper]](https://pubs.acs.org/doi/10.1021/acs.langmuir.5c04369)
 
