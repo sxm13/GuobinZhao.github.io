@@ -10,7 +10,7 @@
 [![Zenodo Badge](https://img.shields.io/badge/Zenodo-Guobin%20Zhao-FF6600?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ZHAO%2C%20GUOBIN%22&l=list&p=1&s=10&sort=bestmatch)                            
                                                
 I (**ESTP-T**) remain deeply committed to scientific research and actively seek collaborations with researchers in related fields. My overarching goal is to develop accessible models, software, and methodologies-integrated tools that streamline the work of computational chemists worldwide.                                    
-[Download My CV](https://drive.google.com/file/d/1lyN7hPXzWVLagX1-4Ly0pHayP4SDYJJO/view?usp=sharing)
+[Download My CV](https://github.com/sxm13/GuobinZhao.github.io/blob/main/cv/main.pdf)
 
 #### Email
 sxmzhaogb@gmail.com    
