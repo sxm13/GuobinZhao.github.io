@@ -13,7 +13,7 @@
 - desc: I have joined Xiao-Yan Li's team as a postdoctoral researcher, and a new chapter in my research journey has begun. 🥂
 
 ---
-   
+
 ## Meet Prof. Xuan Zhang
 - date: 2025-12-01
 - tag: Research · Life
