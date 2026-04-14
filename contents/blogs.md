@@ -10,7 +10,23 @@
 - date: 2025-12-03
 - tag: Research · Life
 - image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/mace.jpg
-- desc: I have joined Xiao-Yan Li’s team as a postdoctoral researcher, and a new chapter in my research journey has begun. 🥂
+- desc: I have joined Xiao-Yan Li's team as a postdoctoral researcher, and a new chapter in my research journey has begun. 🥂
+
+---
+   
+## Meet Prof. Xuan Zhang
+- date: 2025-12-01
+- tag: Research · Life
+- image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/xuanzhang.jpg
+- desc: I was welcomed by Professor Zhang Xuan of the School of Marine Engineering at Jimei University, who was a close friend of mine during my master's program. Photo taken in June 2020. 🌏
+
+---
+
+## Meet Prof. Song Li
+- date: 2025-11-29
+- tag: Research · Life
+- image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/songli.jpg
+- desc: I met with Professor Li Song from the School of Energy and Power Engineering at Huazhong University of Science and Technology, and was treated to a sumptuous dinner. It was also Professor Li who recommended me to pursue my Ph.D. at Pusan National University in 2020. 🌏
 
 ---
 
