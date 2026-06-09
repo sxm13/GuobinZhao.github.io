@@ -6,6 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guobin--zhao--427818256-blue?logo=linkedin)](https://www.linkedin.com/in/guobin-zhao-427818256)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7728--4211-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7728-4211)                                                                 
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Zhao-Guobin?ev=hdr_xprf)
+[![Dimensions](https://img.shields.io/badge/Dimensions-ur.011215422036.63-blue)](https://app.dimensions.ai/details/entities/publication/author/ur.011215422036.63)
+[![arXiv](https://img.shields.io/badge/arXiv-zhao__g__3-B31B1B?logo=arxiv&logoColor=white)](http://arxiv.org/a/zhao_g_3)
+[![ResearcherID](https://img.shields.io/badge/ResearcherID-OQK--3385--2025-orange)](https://www.webofscience.com/wos/author/record/OQK-3385-2025)
+[![Scopus](https://img.shields.io/badge/Scopus-57213424571-E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57213424571)
+[![SSRN](https://img.shields.io/badge/SSRN-7282253-154881)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7282253)
 [![PyPI Badge](https://img.shields.io/badge/PyPI-Guobin%20Zhao-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/q342247760/)
 [![Zenodo Badge](https://img.shields.io/badge/Zenodo-Guobin%20Zhao-FF6600?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22ZHAO%2C%20GUOBIN%22&l=list&p=1&s=10&sort=bestmatch)                            
                                                
