@@ -1,8 +1,16 @@
 ## Presentation at Prof. Jianwen Jiang's Group
+- date: 2026-06-23
+- tag: Research · Life
+- image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/moosavi.jpg
+- desc: It was a great pleasure to meet Professor Jianwen Jiang from Chemical Engineering at the National University of Singapore and enjoy a wonderful lunch together. Also joining us were Dr. Xiaoyu Wu, Xiao Niu, Zheng Gao, Rui Zheng, and Tianhao Li. 🌏
+
+---
+                                                          
+## Presentation at Prof. Jianwen Jiang's Group
 - date: 2026-03-29
 - tag: Research · Life
 - image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/jiang.jpg
-- desc: It was a great pleasure to meet Professor Jianwen Jiang from Chemical Engineering at the National University of Singapore and enjoy a wonderful lunch together. Also joining us were Dr. Xiaoyu Wu, Xiao Niu, Zheng Gao, Rui Zheng, and Tianhao Li. 🌏
+- desc: We have a nice talk with Prof. Moosavi who is from UoT and have a good time on lunch. I am so happy for meeting Moosavi face to face at the first time Also joining us were Xinyang Gu, Ziyan Liu, Kairui Liang, Dr. Xiao-Yan Li, Dr. Pengfei Ou, Ruixing Ge, Ke Wu. 🌏
 
 ---
 
