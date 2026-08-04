@@ -1,3 +1,5 @@
+- (23) M. Zhu, Y. Yang, <strong style="color: purple;">G. Zhao</strong>, X. Y. Li, X. Wang, P. Ou*. (<strong style="color: gold;">2026</strong>) Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage. <strong> Under Review. </strong> [[Paper]](https://sxm13.github.io/GuobinZhao.github.io/)  
+
 - (22) Y. Chen, J. Liu, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, J. Huang, X. Tian, L. Huang*. (<strong style="color: gold;">2026</strong>) Physically Verifiable Evidence and LLM-Based Reporting for Bearing Fault Diagnosis. <strong> Under Review. </strong> [[Paper]](https://arxiv.org/abs/2607.22797)  
 
 - (21) <strong style="color: purple;">G. Zhao</strong>, K. Liang and X. Y. Li* (<strong style="color: gold;">2026</strong>). Stability-Aware Structural Cleaning of Metal–Organic Frameworks for Reliable Molecular Simulation and High-Throughput Screening. <strong> Under Review. </strong> [[Paper]](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006593/v1)  
