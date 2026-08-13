@@ -9,7 +9,7 @@ https://doi.org/10.48550/arXiv.2607.19935)
 
 - (19) Y. Liu, Z. Yang, Z. Deng, C Cao*, Y. Liu, H. Peng, B. Poczos, J. Guo, Y. Chen, Z. Ming, <strong style="color: purple;">G. Zhao*</strong>, (<strong style="color: gold;">2026</strong>), P. S. Yu. How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks?. <strong> Under review. </strong>
 
-- (18) <strong style="color: purple;">G. Zhao</strong> and X. Y. Li* (<strong style="color: gold;">2026</strong>). Chemically Meaningful Textualization Enables Explainable Quality Control of Metal-Organic Frameworks for Reliable Functional Screening. <strong> WITH REVIEWERS. </strong> 
+- (18) <strong style="color: purple;">G. Zhao</strong> and X. Y. Li* (<strong style="color: gold;">2026</strong>). Chemically Meaningful Textualization Enables Explainable Quality Control of Metal-Organic Frameworks for Reliable Functional Screening. <strong> WITH REVIEWERS. </strong> [[Preprint]](https://arxiv.org/pdf/2608.11283)                   
 
 - (17) J. Guo, X. Xu*, L. E*, <strong style="color: purple;">G. Zhao*</strong> and Y. Li* (<strong style="color: gold;">2026</strong>). Beyond Disappearance: Heterojunction AOPs and the Hidden Carbon Fate in Water Systems. <strong> ACS ES&T Water. </strong> [[Paper]](https://doi.org/10.1021/acsestwater.5c01460)                        
                                                          
