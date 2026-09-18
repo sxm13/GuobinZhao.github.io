@@ -40,7 +40,7 @@
 ## PhD Graduation
 - date: 2025-08-22
 - tag: Degree · Milestone
-- image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/graduate.jpg
+- image: https://raw.githubusercontent.com/sxm13/GuobinZhao.github.io/main/static/assets/img/graduate.png
 - desc: I received my Ph.D. on 22/08/2025, and celebrated this milestone with my lab colleagues and my advisor. 🎓
 
 ---
