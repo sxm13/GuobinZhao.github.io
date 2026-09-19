@@ -21,8 +21,7 @@ I (**ESTP-T**) remain deeply committed to scientific research and actively seek 
 sxmzhaogb@gmail.com    
 
 #### Experimence
-**Postdoctoral Fellow**, [MACE Group](https://www.xiaoyanli-mace.com/), National University of Sinapore, Sinapore, 2025.12-                                     
-**Teaching Assistant**, [School of Chemical Engineering](https://chemeng.pusan.ac.kr/chemeng/index.do), [Pusan National University](https://www.pusan.ac.kr/kor/Main.do), Korea, 2022-2025                 
+**Postdoctoral Fellow**, [MACE Group](https://www.xiaoyanli-mace.com/), Department of Chemistry, National University of Sinapore, Sinapore, 2025.12-                                                  
 
 #### Education
 **PhD.**, Chemical Engineering, Pusan National University, Korea, 2020.09-2025.08                             
