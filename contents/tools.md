@@ -1,5 +1,25 @@
 [Development Portfolio](https://resume.github.io/?sxm13)
-                                                        
+
+
+- MAESTRO MOF Database (An LLM agent for end-to-end computational materials discovery):
+  -  Github Repo: coming soon
+  -  Zenodo for MAESTRO MOF Database: coming soon
+ 
+- MOF-Sleuth (Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing):
+  -  Github Repo: coming soon
+  -  Web Server: coming soon
+ 
+- GTsR (A GNN Based Tool for Solvent Removal from MOF with stability check):
+  -  [Github Repo](https://github.com/sxm13/GTsR)
+  -  [Web Server](https://xiao-yan-li-group-nus.streamlit.app/GTsR)
+  -  [pypi - gtsr](https://pypi.org/project/gtsr/)
+                          
+- MOF2Text (A tool used for converting MOFs to text descriptors):
+  -  [Github Repo](https://github.com/sxm13/MOF2Text) 
+
+- MOFDiagnoster (Chemically Meaningful Textualization Enables Explainable Validation of Metal-Organic Frameworks by Large Language Models):
+  -  [Github Repo](https://github.com/sxm13/MOFDiagnoster)                                                  
+                                           
 - MOFClassifier (**Not Computation-Ready classification** for MOFs by positive-unlabeled CGCNN models):
   -  [Github Repo](https://github.com/mtap-research/MOFClassifier)                                                  
   -  [pypi - MOFClassifier](https://pypi.org/project/MOFClassifier/)
@@ -16,10 +36,7 @@
 - PACMAN-charge (A **P**artial **A**tomic **C**harge Predicter for Porous **Ma**terials based on Graph Convolutional Neural **N**etwork):
   -  [Github Repo](https://github.com/mtap-research/PACMAN-charge)
   -  [Web Server](https://pacman-charge-mtap.streamlit.app/)
-  -  [pypi - PACMAN-charge](https://pypi.org/project/PACMAN-charge/)                                               
-                                                                     
-- SESAMI(**Surface area** was obtained by **Brunauer–Emmett–Teller** or **machine learning** model using 77 K N<sub>2</sub> or 87 K Ar isotherms):
-  -  [pypi-SESAMI](https://pypi.org/project/SESAMI/)                                                 
+  -  [pypi - PACMAN-charge](https://pypi.org/project/PACMAN-charge/)                                                                                              
                                                                   
 - COF - H2 - Project(Predicting the uptake of **hydrogen** in **functionalized COFs** using **tree-based** machine learning and **crystal graph convolutional neural networks**): 
   -  [Github Repo](https://github.com/sxm13/H2-COF-functionalization)                                             
