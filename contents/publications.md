@@ -1,3 +1,5 @@
+- (26) Y. Chen, J. Liu, Y. Li, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, X. Tian, L. Huang. A Multi-level Information Integration Framework for Physically Verifiable Fault Diagnosis of Rotating Machinery. <strong> Under Review. </strong>
+
 - (25) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
 
 - (24) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen. (<strong style="color: gold;">2026</strong>) An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE, accepted. </strong>           
@@ -10,7 +12,7 @@
 
 - (20) Y. Liu, Z. Yang, D. Guo, K. Peng, F. Yuan, C Cao, C. Li, Z. Ma, Y. Liu, <strong style="color: purple;">G. Zhao*</strong>. (<strong style="color: gold;">2026</strong>). MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing. <strong> Under review. </strong> [[Preprint]](https://doi.org/10.48550/arXiv.2607.19935)  
 
-- (19) Y. Liu, Z. Yang, Z. Deng, C Cao, Y. Liu, H. Peng, B. Poczos, J. Guo, Y. Chen, Z. Ming, <strong style="color: purple;">G. Zhao*</strong>, (<strong style="color: gold;">2026</strong>), P. S. Yu. How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks?. <strong> Under review. </strong> [[Preprint]](https://www.preprints.org/manuscript/202609.1707)
+- (19) Y. Liu, Z. Yang, Z. Deng, C Cao, Y. Liu, H. Peng, B. Poczos, J. Guo, Y. Chen, Z. Ming, X-Y. Li, <strong style="color: purple;">G. Zhao*</strong>, (<strong style="color: gold;">2026</strong>), P. S. Yu. How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks?. <strong> Under review. </strong> [[Preprint]](https://www.preprints.org/manuscript/202609.1707)
 
 - (18) <strong style="color: purple;">G. Zhao</strong> and X. Y. Li (<strong style="color: gold;">2026</strong>). Chemically Meaningful Textualization Enables Explainable Quality Control of Metal-Organic Frameworks for Reliable Functional Screening. <strong> WITH REVIEWERS. </strong> [[Preprint]](https://arxiv.org/pdf/2608.11283)                   
 
