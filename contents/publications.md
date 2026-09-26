@@ -1,3 +1,5 @@
+- (27) Y. Chen, Y. Li, Q. Shen, <strong style="color: purple;">G. Zhao</strong>, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining. <strong> Under Review. </strong>
+
 - (26) Y. Chen, J. Liu, Y. Li, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). A Multi-level Information Integration Framework for Physically Verifiable Fault Diagnosis of Rotating Machinery. <strong> Under Review. </strong>
 
 - (25) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
