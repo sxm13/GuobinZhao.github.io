@@ -4,7 +4,7 @@
 
 - (25) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
 
-- (24) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen (<strong style="color: gold;">2026</strong>). An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE, accepted. </strong>           
+- (24) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen (<strong style="color: gold;">2026</strong>). An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE. </strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/11694749)          
             
 - (23) M. Zhu, Y. Yang, <strong style="color: purple;">G. Zhao</strong>, X. Y. Li, X. Wang, P. Ou (<strong style="color: gold;">2026</strong>). Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage. <strong> Under Review. </strong> 
 
