@@ -1,14 +1,12 @@
-- (27) Y. Chen, Y. Li, Q. Shen, <strong style="color: purple;">G. Zhao</strong>, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining. <strong> Under Review. </strong>
+- (26) Y. Chen, Y. Li, Q. Shen, <strong style="color: purple;">G. Zhao</strong>, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining. <strong> Under Review. </strong>
 
-- (26) Y. Chen, J. Liu, Y. Li, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). A Multi-level Information Integration Framework for Physically Verifiable Fault Diagnosis of Rotating Machinery. <strong> Under Review. </strong>
+- (25) Y. Chen, J. Liu, Y. Li, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). A Multi-level Information Integration Framework for Physically Verifiable Fault Diagnosis of Rotating Machinery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2607.22797)
 
-- (25) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
+- (24) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
 
-- (24) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen (<strong style="color: gold;">2026</strong>). An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE. </strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/11694749)          
+- (23) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen (<strong style="color: gold;">2026</strong>). An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE. </strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/11694749)          
             
-- (23) M. Zhu, Y. Yang, <strong style="color: purple;">G. Zhao</strong>, X. Y. Li, X. Wang, P. Ou (<strong style="color: gold;">2026</strong>). Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage. <strong>International Journal of Hydrogen Energy. </strong> [[paper]](https://doi.org/10.1016/j.ijhydene.2026.158296). 
-
-- (22) Y. Chen, J. Liu, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, J. Huang, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). Physically Verifiable Evidence and LLM-Based Reporting for Bearing Fault Diagnosis. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2607.22797)  
+- (22) M. Zhu, Y. Yang, <strong style="color: purple;">G. Zhao</strong>, X. Y. Li, X. Wang, P. Ou (<strong style="color: gold;">2026</strong>). Literature-mining-guided design of lithium-functionalized polar penta-BCN nanosheets for reversible hydrogen storage. <strong>International Journal of Hydrogen Energy. </strong> [[paper]](https://doi.org/10.1016/j.ijhydene.2026.158296). 
 
 - (21) <strong style="color: purple;">G. Zhao</strong>, K. Liang and X. Y. Li (<strong style="color: gold;">2026</strong>). Stability-Aware Structural Cleaning of Metal–Organic Frameworks for Reliable Molecular Simulation and High-Throughput Screening. <strong> Under Review. </strong> [[Preprint]](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006593/v1)  
 
