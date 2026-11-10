@@ -1,9 +1,9 @@
 [Development Portfolio](https://resume.github.io/?sxm13)
 
 
-- MAESTRO MOF Database (An LLM agent for end-to-end computational materials discovery):
+- DREAMS (An LLM agent for end-to-end computational materials discovery):
   -  Github Repo: coming soon
-  -  Zenodo for MAESTRO MOF Database: coming soon
+  -  [Zenodo for DREAMS MOF Database](https://zenodo.org/records/23540448)
  
 - MOF-Sleuth (Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing):
   -  Github Repo: coming soon
