@@ -1,8 +1,12 @@
+- (28) Y. Liu, Y. Tan, Z. Liu, Z. Yang, H. Feng, W. Zhang, Z. Deng, K. Peng, R. Timofte, Y. Li, Z. Peng, D. Wen, J. Zheng, R. Liu, Y. Chen, M. Wu, W. Guo, <strong style="color: purple;">G. Zhao*</strong>, Z. Ma, W. Kong, R. Zhang, H. Sun, J. Meng, Q. Lyu, S. Zhang, X. Xi, P. Fu, J. B. Hong, Y. Liu, J. Luan, Y. Li, T. Qian, X. Qi, C. Zhang, B. Poczos, L. E. Li (<strong style="color: gold;">2026</strong>). .... <strong> Under Review. </strong>
+
+- (27) ..., <strong style="color: purple;">G. Zhao</strong>, X.-Y. Li, ..., X. Duan (<strong style="color: gold;">2026</strong>). .... <strong> Under Review. </strong>
+
 - (26) Y. Chen, Y. Li, Q. Shen, <strong style="color: purple;">G. Zhao</strong>, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). LLM-coupled interpretable tool wear monitoring with multi-evidence reasoning in CNC machining. <strong> Under Review. </strong>
 
 - (25) Y. Chen, J. Liu, Y. Li, <strong style="color: purple;">G. Zhao</strong>, Z. Wang, C. Chen, X. Tian, L. Huang (<strong style="color: gold;">2026</strong>). A Multi-level Information Integration Framework for Physically Verifiable Fault Diagnosis of Rotating Machinery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2607.22797)
 
-- (24) Y. Chen, J. Huang, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, L. Huang, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM Agent for End-to-End Computational Materials Discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434) 
+- (24) Y. Chen, L. Huang, Y. Li, Y. Liu, D. Zhao, M. Sun, C. Ju, Y. Liu, X.-Y. Li, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). An LLM agent for end-to-end computational materials discovery. <strong> Under Review. </strong> [[Preprint]](https://arxiv.org/abs/2608.20434)
 
 - (23) C. Ju, <strong style="color: purple;">G. Zhao</strong>, Y. Chen (<strong style="color: gold;">2026</strong>). An LLM-Driven Intelligent Agent for Adaptive Data Preparation with Strategy Memory. <strong> EICARS 2026, IEEE. </strong>[[Paper]](https://ieeexplore.ieee.org/abstract/document/11694749)          
             
@@ -10,11 +14,11 @@
 
 - (21) <strong style="color: purple;">G. Zhao</strong>, K. Liang and X. Y. Li (<strong style="color: gold;">2026</strong>). Stability-Aware Structural Cleaning of Metal–Organic Frameworks for Reliable Molecular Simulation and High-Throughput Screening. <strong> Under Review. </strong> [[Preprint]](https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15006593/v1)  
 
-- (20) Y. Liu, Z. Yang, D. Guo, K. Peng, F. Yuan, C Cao, C. Li, Z. Ma, Y. Liu, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing. <strong> Under review. </strong> [[Preprint]](https://doi.org/10.48550/arXiv.2607.19935)  
+- (20) Y. Liu, Z. Yang, D. Guo, K. Peng, F. Yuan, C Cao, C. Li, Z. Ma, Y. Liu, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). MOF-Sleuth: Tool-Grounded Reward Alignment for Explainable Fine-Grained MOF CIF Auditing. <strong> Under Review. </strong> [[Preprint]](https://doi.org/10.48550/arXiv.2607.19935)  
 
-- (19) Y. Liu, Z. Yang, Z. Deng, C Cao, Y. Liu, H. Peng, B. Poczos, J. Guo, Y. Chen, Z. Ming, X-Y. Li, <strong style="color: purple;">G. Zhao*</strong>, P. S. Yu (<strong style="color: gold;">2026</strong>). How Can Artificial Intelligence Accelerate the In Silico Screening of Metal-Organic Frameworks?. <strong> Under review. </strong> [[Preprint]](https://www.preprints.org/manuscript/202609.1707)
-
-- (18) <strong style="color: purple;">G. Zhao</strong> and X. Y. Li (<strong style="color: gold;">2026</strong>). Chemically Meaningful Textualization Enables Explainable Quality Control of Metal-Organic Frameworks for Reliable Functional Screening. <strong> WITH REVIEWERS. </strong> [[Preprint]](https://arxiv.org/pdf/2608.11283)                   
+- (19) Y. Liu, Z. Yang, K. Chen, C. Cao*, F. Yuan, H. Peng, J. Guo, Y. Chen, Z. Ming, L. Jiang, Y. Liu, X.-Y. Li*, <strong style="color: purple;">G. Zhao*</strong> (<strong style="color: gold;">2026</strong>). AI-Accelerated Computational Screening of Metal–Organic Frameworks: Data, Models, and Agents. <strong> Under Review. </strong> [[Preprint]](https://www.preprints.org/manuscript/202609.1707)
+                                      
+- (18) <strong style="color: purple;">G. Zhao</strong> and X. Y. Li (<strong style="color: gold;">2026</strong>). Benchmark of Crystal Descriptors for MOF by Large Language Models. <strong> Under Submission. </strong> [[Preprint]](https://arxiv.org/pdf/2608.11283)                   
 
 - (17) J. Guo, X. Xu, L. E, <strong style="color: purple;">G. Zhao*</strong> and Y. Li (<strong style="color: gold;">2026</strong>). Beyond Disappearance: Heterojunction AOPs and the Hidden Carbon Fate in Water Systems. <strong> ACS ES&T Water. </strong> [[Paper]](https://doi.org/10.1021/acsestwater.5c01460)                        
                                                          
